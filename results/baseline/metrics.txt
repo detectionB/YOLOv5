@@ -1,0 +1,14 @@
+Baseline (YOLOv5s, Color+Gray)
+
+- Last epoch    : 19
+- Precision     : 0.85345
+- Recall        : 0.81680
+- mAP@0.5       : 0.87905
+- mAP@0.5:0.95  : 0.58370
+
+Source:
+- results.csv (last epoch)
+
+Note:
+- val.py was not re-run due to Colab session reset.
+- Metrics are extracted from training logs.

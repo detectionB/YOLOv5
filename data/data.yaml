@@ -1,0 +1,53 @@
+path: /content/work/yolo_dataset
+train: images/train
+val: images/val
+nc: 48
+names:
+- Awl
+- Ax
+- Baton-folding
+- Bullet
+- Butterfly knife
+- Camera
+- Chisel
+- Crowbar
+- Driver
+- Dumbbel
+- Electroshock weapon
+- Firecracker
+- Folder phone
+- Grenade
+- Hex key(over 10cm)
+- Hoe
+- Homi
+- Knife blade
+- Knife-A
+- Knife-C
+- Knife-D
+- Knife-E
+- Knife-F
+- LAGs products(Aluminum-C)
+- LAGs products(Glass-C)
+- LAGs products(Glass-D)
+- LAGs products(Plastic-B)
+- LAGs products(Plastic-C)
+- LAGs products(Plastic-D)
+- LAGs products(Tube-C)
+- LAGs products(Tube-D)
+- Lighter
+- Nunchaku
+- Pistol
+- Rifle
+- Scissors-A
+- Scissors-E
+- Self-defense spray
+- Shuriken-metal
+- Slingshot
+- Smoke grenade
+- Solid fuel
+- Stratight razor-folding
+- Surgical knife
+- Zipo lighter
+- Labtop
+- Smart phone
+- Tablet pc
